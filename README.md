@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Preview](/path/to/favicon.png)](https://github.com/t1ltxz-gxd/serenity_template)
-<h1>serenity_template</h1>
+[![Preview](https://raw.githubusercontent.com/serenity-rs/serenity/current/logo.png)](https://github.com/t1ltxz-gxd/serenity_template)
+<h1>Serenity Template</h1>
 
 ---
 [![GitHub License](https://img.shields.io/github/license/t1ltxz-gxd/serenity_template)](https://github.com/t1ltxz-gxd/serenity_template/blob/main/LICENSE "license")
