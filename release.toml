@@ -1,0 +1,9 @@
+pre-release-commit-message = "🚀 chore(release): version "
+shared-version = true
+sign-commit = true
+tag-message = ""
+tag-prefix = ""
+publish = false
+push = true
+tag = true
+pre-release-hook = ["git", "cliff", "-o", "CHANGELOG.md", "--tag", "v{{version}}"]
