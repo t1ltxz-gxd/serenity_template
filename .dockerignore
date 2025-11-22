@@ -1,0 +1,10 @@
+# Ignore all files by default
+*
+
+# Allow cargo files
+!Cargo.toml
+!Cargo.lock
+
+# Allow src directory
+!src/
+
